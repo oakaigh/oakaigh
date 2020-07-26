@@ -1,6 +1,8 @@
 # 👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 ### Hi there 👻 It's Jared, a broke UCSD student. Feel free to ask me anything. There's nothing to see here.
 
+> *Be conservative in what you do, be liberal in what you `accept()` from others.*
+
 <!--
 **PantherJohn/PantherJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
