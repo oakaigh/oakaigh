@@ -1,7 +1,8 @@
 # 👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 ### Hi there 👻 It's Jared, a broke UCSD student. Feel free to ask me anything. There's nothing to see here.
 
-> *Be conservative in what you do, be liberal in what you `accept()` from others.*
+Below is a quote. Keep it in mind when you are designing libraries. Pun intended. May not be a good one. Don't judge. Some people believe the corona will "just disappear" and never listen to us "siens" people. This is the word we have for them.
+> *Be **conservative** in what you do, be **liberal** in what you `accept()` from others.*
 
 <!--
 **PantherJohn/PantherJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
